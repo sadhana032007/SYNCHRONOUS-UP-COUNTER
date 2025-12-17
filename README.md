@@ -38,7 +38,7 @@ module ex11 (out,clk,rstn); input clk,rstn; output reg [3:0] out; always @ (pose
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/507353f1-bc56-4b26-80df-f938266949b8" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
-<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/be98e231-101d-41c3-a420-9d606696350c" /
+<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/36e63c0f-4e5b-4d30-8bcf-9a427dd69ad1" />
 
 **RESULTS**
 thus the 4 bit synchronous up counter and validate functionality is implemented.
